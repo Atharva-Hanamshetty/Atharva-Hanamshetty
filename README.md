@@ -3,13 +3,13 @@
 # Atharva Hanamshetty
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Explorer;Software+Builder" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Explorer;Software+Builder" alt="Atharva Hanamshetty" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Focus-AI%2FML-7C3AED?style=flat-square&logo=brain&logoColor=white" alt="AI/ML" />
   <img src="https://img.shields.io/badge/Stack-Data%2C+Code%2C+Systems-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/Location-SRMIST-KTR-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-SRMIST%2FKTR-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 </div>
