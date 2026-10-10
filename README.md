@@ -1,38 +1,58 @@
 <div align="center">
 
-# Atharva Hanamshetty
+```text
+  ╔════════════════════════════════════════════════════════════════╗
+  ║         ATHARVA HANAMSHETTY · AI / ML / SOFTWARE BUILDER       ║
+  ║      [ building intelligence | solving problems | shipping ]  ║
+  ╚════════════════════════════════════════════════════════════════╝
+```
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Data-Driven+Thinker;Problem+Solver;Software+Builder" alt="Typing animation" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Location-SRMIST-KTR-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Learning%2FBuilding-22C55E?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=int+main%28%29+%7B;AI+%26+ML+Builder;Data-Driven+Thinker;Problem+Solver;return+0x1;%7D" alt="Hacker typing animation" />
 </p>
 
 </div>
 
-## About Me
+---
 
-I'm an AI-focused student pursuing an integrated M.Tech in AI, passionate about building intelligent systems, solving real-world problems, and turning ideas into impactful products.
+## `> whoami`
 
-- 🎓 M.Tech (Integrated) in AI at SRMIST-KTR
-- 🌱 Currently learning DSA, backend development, and API design
-- 🤖 Interested in machine learning, deep learning, and practical AI systems
-- 💡 Enjoy building projects that combine software engineering with data-driven thinking
-- ☕ Love clean code, thoughtful design, and consistent growth
+```bash
+Atharva Hanamshetty
+Role: AI-focused software builder
+Campus: SRMIST-KTR
+Focus: AI, ML, Data, and scalable software systems
+```
 
-## What I'm Exploring
+- `🎓` Integrated M.Tech in AI at SRMIST-KTR
+- `🔧` Currently learning DSA, backend development, and API design
+- `🤖` Interested in ML, intelligent systems, and product-thinking
+- `💡` Building projects that combine engineering and impact
+- `🎵` Loves coding, music, and solving challenging problems
 
-- Machine Learning & AI workflows
-- Data structures and algorithmic problem solving
-- Backend development and REST APIs
-- Real-world product thinking and software architecture
-- Building polished, useful, and scalable solutions
+---
 
-## Tech Stack
+## `> cat interests.txt`
+
+```text
+├─ Machine Learning & Deep Learning
+├─ Data Structures & Algorithms
+├─ Backend Development & REST APIs
+├─ Software Architecture & System Design
+├─ Real-world problem solving
+├─ Building useful, polished projects
+└─ Continuous learning and experimentation
+```
+
+---
+
+## `> stack.sh --list`
+
+```text
+Languages:   C, C++, Java, Python, JavaScript, Node.js
+Tools:       Git, GitHub, VS Code, Linux, Bash
+Focus:       AI/ML, APIs, Data, product engineering
+```
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -45,14 +65,9 @@ I'm an AI-focused student pursuing an integrated M.Tech in AI, passionate about 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## Current Focus
+---
 
-- Strengthening problem-solving and analytical thinking
-- Learning backend systems and API development
-- Exploring end-to-end AI/ML application design
-- Building projects that reflect clean engineering and real impact
-
-## Connect With Me
+## `> find . -name "connect" -type d`
 
 <p align="left">
   <a href="https://www.linkedin.com/in/atharva-hanamshetty" target="_blank">
@@ -66,22 +81,24 @@ I'm an AI-focused student pursuing an integrated M.Tech in AI, passionate about 
   </a>
 </p>
 
-## GitHub Overview
+---
+
+## `> github-stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Hanamshetty&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=F8FAFC&bg_color=0B1026" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Hanamshetty&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Atharva-Hanamshetty&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Atharva-Hanamshetty&theme=dark&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=FFFFFF&sideLabels=00FF41" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Hanamshetty&layout=compact&theme=radical&hide_border=true&title_color=8B5CF6&text_color=F8FAFC&bg_color=0B1026" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Hanamshetty&layout=compact&theme=radical&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Building ideas, intelligence, and impact — one commit at a time.</i>
+  <code>$ echo "Building intelligence, one line at a time."</code>
 </p>
