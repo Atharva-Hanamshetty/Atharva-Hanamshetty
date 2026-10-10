@@ -1,25 +1,28 @@
 <div align="center">
 
-# Hi, I'm Atharva 👋
+# 𝔸𝕥𝕙𝕒𝕣𝕧𝕒 𝔽𝕖𝕖𝕝𝕤 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Student+%7C+AI+%26+ML+Enthusiast;Data+Explorer;Learning+DSA+%26+APIs;Code%2C+Coffee%2C+Creativity" alt="Typing SVG" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Student%7C+AI+%26+ML+Enthusiast;Data+Explorer;Learning+Data+Structures+and+APIs;Building+with+Curiosity" alt="Typing SVG" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Student-M.Tech+Integrated+AI-0A84FF?style=flat-square&logo=graduation-cap&logoColor=white" alt="Student" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-7C3AED?style=flat-square&logo=brain&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/Interests-Data%2C+Code%2C+Music-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Interests" />
+  <img src="https://img.shields.io/badge/Student-M.Tech+AI-00F5D4?style=for-the-badge&logo=graduation-cap&logoColor=0B1026" alt="Student" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-9D4EDD?style=for-the-badge&logo=brain&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Passion-Data%2C+Code%2C+Music-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Passion" />
 </p>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Neon+Builder&fontColor=ffffff&height=200&fontSize=50" alt="Neon Builder" />
+</p>
 
 ## About Me
 
 - 🎓 Pursuing M.Tech (Integrated) in AI at SRMIST-KTR
 - 🌱 Currently learning Data Structures and API Development
-- 💡 Passionate about AI, machine learning, and building meaningful projects
-- ☕ Enjoys music, coffee, and deep-focus coding sessions
+- 🤖 Passionate about AI, machine learning, and intelligent systems
+- ☕ Enjoys coding, music, coffee, and creative problem-solving
+- ⚡ Building a strong foundation in software engineering and data-driven thinking
 
 ## Connect with Me
 
@@ -49,18 +52,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## GitHub Stats
+## GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Hanamshetty&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Hanamshetty&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=F8FAFC&bg_color=0B1026" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Hanamshetty&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Hanamshetty&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Hanamshetty&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Hanamshetty&layout=compact&theme=radical&hide_border=true&title_color=00F5D4&text_color=F8FAFC&bg_color=0B1026" alt="Top Languages" />
 </p>
 
 ## Random Dev Quote
@@ -72,9 +75,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharva-Hanamshetty&label=Profile+Views&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Atharva-Hanamshetty&label=Profile+Views&color=00F5D4" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <i>Building ideas, one line at a time.</i>
+  <i>⚡ Building ideas, one neon line at a time.</i>
 </p>
