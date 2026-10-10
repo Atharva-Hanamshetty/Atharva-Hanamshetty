@@ -3,7 +3,7 @@
 # Atharva Hanamshetty
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Explorer;Software+Builder;Learning+by+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Explorer;Software+Builder" alt="Typing animation" />
 </p>
 
 <p>
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I’m a student pursuing an integrated M.Tech in AI, passionate about machine learning, problem solving, and building products that turn ideas into real-world impact.
+I'm a student pursuing an integrated M.Tech in AI, passionate about machine learning, problem solving, and building products that turn ideas into real-world impact.
 
 - 🎓 M.Tech (Integrated) in AI at SRMIST-KTR
 - 🌱 Currently learning Data Structures and API Development
@@ -63,7 +63,7 @@ I’m a student pursuing an integrated M.Tech in AI, passionate about machine le
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Hanamshetty&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Atharva-Hanamshetty&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
