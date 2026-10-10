@@ -3,13 +3,13 @@
 # Atharva Hanamshetty
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Explorer;Software+Builder" alt="Atharva Hanamshetty" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Explorer;Software+Builder;Problem+Solver" alt="Typing animation" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Focus-AI%2FML-7C3AED?style=flat-square&logo=brain&logoColor=white" alt="AI/ML" />
   <img src="https://img.shields.io/badge/Stack-Data%2C+Code%2C+Systems-22C55E?style=flat-square&logo=rocket&logoColor=white" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/Location-SRMIST-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-SRMIST-KTR-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 </div>
@@ -19,9 +19,10 @@
 I'm a student pursuing an integrated M.Tech in AI, passionate about machine learning, problem solving, and building products that turn ideas into real-world impact.
 
 - 🎓 M.Tech (Integrated) in AI at SRMIST-KTR
-- 🌱 Currently learning Data Structures and API Development
-- 🤖 Interested in AI, ML, intelligent systems, and scalable software
+- 🌱 Currently learning Data Structures, APIs, and software engineering fundamentals
+- 🤖 Interested in AI, ML, intelligent systems, and scalable applications
 - ☕ Loves coding, music, and thoughtful engineering
+- 🚀 Always exploring ways to build practical solutions with real-world value
 
 ## Core Interests
 
@@ -29,6 +30,7 @@ I'm a student pursuing an integrated M.Tech in AI, passionate about machine lear
 - Data-driven problem solving
 - Software development and API design
 - Building polished, practical, user-focused projects
+- Turning ideas into usable products
 
 ## Tech Stack
 
@@ -40,7 +42,15 @@ I'm a student pursuing an integrated M.Tech in AI, passionate about machine lear
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+
+## Current Focus
+
+- Strengthening DSA and problem-solving skills
+- Learning backend/API development
+- Exploring machine learning workflows and models
+- Building projects that demonstrate clean engineering and practical thinking
 
 ## Connect
 
