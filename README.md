@@ -3,7 +3,7 @@
 # Atharva Hanamshetty
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Data+Driven+Thinker;Problem+Solver;Software+Builder" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Data-Driven+Thinker;Problem+Solver;Software+Builder" alt="Typing animation" />
 </p>
 
 <p>
@@ -24,7 +24,7 @@ I'm an AI-focused student pursuing an integrated M.Tech in AI, passionate about 
 - 💡 Enjoy building projects that combine software engineering with data-driven thinking
 - ☕ Love clean code, thoughtful design, and consistent growth
 
-## What I’m Exploring
+## What I'm Exploring
 
 - Machine Learning & AI workflows
 - Data structures and algorithmic problem solving
