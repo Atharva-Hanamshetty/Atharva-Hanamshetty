@@ -1,58 +1,63 @@
 <div align="center">
 
 ```text
-  ╔════════════════════════════════════════════════════════════════╗
+  ╔════════════════════════════════════════════════════════════════[...]
   ║         ATHARVA HANAMSHETTY · AI / ML / SOFTWARE BUILDER       ║
   ║      [ building intelligence | solving problems | shipping ]  ║
-  ╚════════════════════════════════════════════════════════════════╝
+  ╚════════════════════════════════════════════════════════════════[...]
 ```
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=int+main%28%29+%7B;AI+%26+ML+Builder;Data-Driven+Thinker;Problem+Solver;return+0x1;%7D" alt="Hacker typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=int+main%28%29+%7B;AI+%26+ML+Builder;Data+%7C+APIs+%7C+Systems" />
 </p>
 
 </div>
 
 ---
 
-## `> whoami`
+# Atharva Hanamshetty
 
-```bash
-Atharva Hanamshetty
-Role: AI-focused software builder
-Campus: SRMIST-KTR
-Focus: AI, ML, Data, and scalable software systems
-```
+AI / ML-focused software builder — building practical systems that combine machine learning, scalable backends, and product-first thinking.
 
-- `🎓` Integrated M.Tech in AI at SRMIST-KTR
-- `🔧` Currently learning DSA, backend development, and API design
-- `🤖` Interested in ML, intelligent systems, and product-thinking
-- `💡` Building projects that combine engineering and impact
-- `🎵` Loves coding, music, and solving challenging problems
+- 🎓 Integrated M.Tech in AI — SRMIST-KTR
+- 🔧 Currently strengthening DSA, backend development, and API design
+- 🤖 Interests: ML, intelligent systems, data-driven products
+- 💡 Passionate about shipping polished projects with real impact
 
 ---
 
-## `> cat interests.txt`
+## Table of contents
 
-```text
-├─ Machine Learning & Deep Learning
-├─ Data Structures & Algorithms
-├─ Backend Development & REST APIs
-├─ Software Architecture & System Design
-├─ Real-world problem solving
-├─ Building useful, polished projects
-└─ Continuous learning and experimentation
-```
+- About
+- Areas of focus
+- Tech stack
+- Projects
+- Get in touch
 
 ---
 
-## `> stack.sh --list`
+## About
 
-```text
-Languages:   C, C++, Java, Python, JavaScript, Node.js
-Tools:       Git, GitHub, VS Code, Linux, Bash
-Focus:       AI/ML, APIs, Data, product engineering
-```
+I design and build software and ML systems that solve real-world problems. I enjoy the full lifecycle: ideation, research/prototyping, engineering, and delivery. I focus on practical ML and robust backend systems.
+
+---
+
+## Areas of focus
+
+- Machine Learning & Deep Learning
+- Data Structures & Algorithms
+- Backend Development & REST APIs
+- Software Architecture & System Design
+- Building polished, production-ready projects
+- Continuous learning and experimentation
+
+---
+
+## Tech stack
+
+Languages: C, C++, Java, Python, JavaScript/Node.js
+
+Tools & other: Git, GitHub, VS Code, Linux, Bash
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -67,7 +72,13 @@ Focus:       AI/ML, APIs, Data, product engineering
 
 ---
 
-## `> find . -name "connect" -type d`
+## Projects
+
+Open-source and personal projects live on my GitHub — I build small, focused systems that demonstrate engineering quality and useful ML components. Check the pinned repositories on my profile for highlights.
+
+---
+
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/atharva-hanamshetty" target="_blank">
@@ -83,18 +94,18 @@ Focus:       AI/ML, APIs, Data, product engineering
 
 ---
 
-## `> github-stats`
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Hanamshetty&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Hanamshetty&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Atharva-Hanamshetty&theme=dark&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=FFFFFF&sideLabels=00FF41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Atharva-Hanamshetty&theme=dark&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Hanamshetty&layout=compact&theme=radical&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Hanamshetty&layout=compact&theme=radical&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=0d1117" />
 </p>
 
 ---
